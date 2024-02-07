@@ -1,3 +1,4 @@
+[![MasterHead](http://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 <h1 align="center">Hi 👋, I'm Osman Efe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
